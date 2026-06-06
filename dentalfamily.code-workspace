@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Banca_chino"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Banca_chino"
+	}
+}
